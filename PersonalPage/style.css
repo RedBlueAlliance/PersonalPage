@@ -1,0 +1,165 @@
+@charset "utf-8";
+h1, h2, h3, h4, h5, h6 {margin: 0;}
+ul, ol {margin: 0; padding:0;}
+p {margin: 0;}
+html, body{
+	margin: 0;
+	font-family: sans-serif;
+	font-size: 100%;
+	background: #ffffff;
+}
+body {
+  padding-top:0px;
+  padding-left: 0px;
+  font-size: 18px;
+  padding-bottom: 0px;
+  margin: 0px;
+}
+
+.header{
+	height: 100px;
+	background: #ffffff;
+	margin: 0px;
+}
+
+.nav{
+	height: 30px;
+	background: #FFFF99;
+	margin: 0px;
+}
+
+.maincontent{
+	height: 750px;
+	margin: 0px;
+	padding: 0px;
+
+}
+
+.sidebar {
+  width: 350px;
+  height: 100%;
+  text-align: left;
+  float: left;
+  overflow: hidden;
+  background: #6ecadc;
+  margin: 0px;
+  margin-bottom: 0px;
+}
+
+.content {
+	height: 100%;
+
+  text-align: left;
+  overflow: hidden;
+  background: #FFCC66;
+  margin: 0px;
+  padding: 0px;
+
+}
+
+.content p{
+	padding: 10px;
+	height: 80px;
+}
+
+.footer{
+	height: 50px;
+	background: #CCFFCC;
+	margin: 0px;
+	text-align: center;
+}
+
+.student{
+	padding: 10px;
+}
+
+.clearfloat{
+	clear: both;
+	height: 0px;
+	font-size: 1px;
+	line-height: 0px;
+}
+
+.head_picture {
+    width:65%;
+	margin: 10%;
+	padding: 0px;
+}
+
+.sidebar img{
+    border: 1px solid #fff;
+	padding: 1em;
+	width: 100%;
+	margin: 0px;
+}
+
+.sidebar h1{
+	font-size:2.5em;
+	font-weight:700;
+	COLOR:#fff;
+	font-family: 'Varela Round', sans-serif;
+	text-align: center;
+	padding-top: 30px;
+}
+
+.sidebar h3{
+	padding-left: 35px;
+	margin: 10px;
+}
+
+.sidebar p{
+	padding-left: 45px;
+	height: 20px;
+}
+
+.login_picture{
+	float: left;
+	width: 350px;
+	padding: 5px;
+	margin: 0px;
+}
+
+.login_picture img{
+	width: 350px;
+
+}
+
+.denglu{
+	float: right;
+	width: 250px;
+	padding: 0px;
+	margin: 0px;
+}
+
+.denglu h3{
+	text-align: center;
+}
+
+.title{
+	padding: 0px;
+	margin: 0px;
+	padding-top: 30px;
+
+}
+
+.title h1{
+	text-align: center;
+	
+}
+
+.content h3{
+	padding: 10px;
+	background: #5665;
+	width: 90px;
+}
+
+
+
+.upload_picture{
+	text-align: center;
+}
+
+.submit_info{
+	padding-top: 20px;
+	text-align: center;
+}
