@@ -2,35 +2,37 @@
 
 1. 初始页面，点击注册，也可以登陆，也可以直接搜索用户信息  
 
-      ![初始页面](images\image-20191129161523408.png)	         
+      ![初始页面]( https://github.com/RedBlueAlliance/PersonalPage/blob/master/images/image-20191129161403802.png?raw=true)
 
-2. 注册，填写信息，有每项的验证，就不一一截图了，实现手机验证码
+      
 
-   ![注册](images\image-20191129161623846.png)
+1. 注册，填写信息，有每项的验证，就不一一截图了，实现手机验证码
 
-3. 注册成功或者登陆成功的页面
+   ![注册](https://github.com/RedBlueAlliance/PersonalPage/blob/master/images/image-20191129161623846.png?raw=true)
 
-   ![登陆成功的页面](images\image-20191129161650281.png)
+2. 注册成功或者登陆成功的页面
 
-4. 可上传图片
+   ![登陆成功的页面](https://github.com/RedBlueAlliance/PersonalPage/blob/master/images/image-20191129161650281.png?raw=true)
 
-   ![上传图片](images\image-20191129161718118.png)
+3. 可上传图片
 
-5. 上传成功
+   ![上传图片](https://github.com/RedBlueAlliance/PersonalPage/blob/master/images/image-20191129161718118.png?raw=true)
 
-   ![图片上传成功](images\image-20191129161739032.png)
+4. 上传成功
 
-6. 点击编辑信息，可以对下面的内容进行编辑
+   ![图片上传成功](https://github.com/RedBlueAlliance/PersonalPage/blob/master/images/image-20191129161739032.png?raw=true)
 
-   ![修改个人信息](images\image-20191129161800119.png)
+5. 点击编辑信息，可以对下面的内容进行编辑
 
-7. 编辑成功后的页面
+   ![修改个人信息](https://github.com/RedBlueAlliance/PersonalPage/blob/master/images/image-20191129161800119.png?raw=true)
 
-   ![编辑成功](images\image-20191129161819478.png)
+6. 编辑成功后的页面
 
-8. 游客可以搜索用户信息
+   ![编辑成功](https://github.com/RedBlueAlliance/PersonalPage/blob/master/images/image-20191129161819478.png?raw=true)
 
-   ![游客页面](images\image-20191129161833297.png)
+7. 游客可以搜索用户信息
+
+   ![游客页面](https://github.com/RedBlueAlliance/PersonalPage/blob/master/images/image-20191129161833297.png?raw=true)
 
 
 
@@ -42,7 +44,7 @@
 
    将PersonalPage文件夹复制到webapps目录下 
 
-![搭建环境](images\image-20191129162044109.png)
+![搭建环境](https://github.com/RedBlueAlliance/PersonalPage/blob/master/images/image-20191129162044109.png?raw=true)
 
 2. 安装数据库MySQL
 
